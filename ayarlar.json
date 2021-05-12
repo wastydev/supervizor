@@ -1,0 +1,43 @@
+{
+  
+  "prefix" : "",
+  "sahip" : "",
+  "token" : "",
+  
+  "sunucuid": "",
+  
+  "register": "",
+  "ilkrol": "",
+  "allcommands": "",
+  "chatsorumlusu": "",
+  "muteci": "",
+  "jailci": "",
+  
+  "erkek": "",
+  "erkek2": "",
+  "kadın": "",
+  "kadın2": "",
+  "unregister": "",
+  "vip": "",
+  
+  "tag": "",
+  "tagrol": "",
+
+  "taglog": "",
+  "nicklog": "",
+  "kayıtlog": "",
+  "ytallog": "",
+  "mutelog": "",
+  "jaillog": "",
+  
+  "muterol": "",
+  "cezalı": "",
+  
+  "botkanal": "",
+  "chat": "",
+  
+  "ready": "",
+
+  "footer": ""
+  
+}
